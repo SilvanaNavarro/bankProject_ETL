@@ -1,0 +1,3 @@
+2023-Dec-07-20:23:31,Inicio extracción
+2023-Dec-07-20:23:32,Fin extracción
+2023-Dec-07-20:23:32,Inicio Transformación
